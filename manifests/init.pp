@@ -1,3 +1,3 @@
 class sad {
-  notify {"This is a sad module."}
+  notify {"This is a sad module.":}
 }
